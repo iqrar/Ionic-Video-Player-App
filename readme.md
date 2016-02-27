@@ -12,7 +12,7 @@ ionic emulate iOS to test on ios emulator
 
 # How to use
 
-Click on movie thumbnail will take to detail view, where use can see movie and details.
+Click on movie thumbnail will take to detail view, where user can see movie and details.
 
 ## Result
 
